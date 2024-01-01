@@ -1,0 +1,52 @@
+.navbar{
+    background-color: #ffffff;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,.12), inset 0 -1px 0 0 #dadce0
+}
+
+.btn-primary{
+ /* background-color: #ff8311;    */
+ background-color: #2c8c43;   
+ border: 2px solid #2c8c43;
+}
+.btn-primary:hover{
+    background-color: #2c8c43;
+    border: 2px solid #2c8c43;
+
+}
+.btn-primary:active{
+    background-color: #2c8c43 !important;
+    opacity: 0.5;
+}
+.btn-outline-primary{
+    background-color: #ff8311;
+     border: 2px solid #ff8311;
+
+}
+.btn-outline-primary:hover{
+    background-color: #ff8311 !important;
+    border: 2px solid #ff8311 ;
+
+}
+.btn-outline-primary:active{
+    background-color: #ff8311 !important;
+    opacity: 0.5;
+}
+.dish-img{
+    width: 120px;
+    height: 100px;
+    border-radius: 10px;
+    /* position: absolute; */
+}
+.card-title{
+    font-size: 17px;
+}
+.rupees{
+    font-size: 15px;
+}
+.card-text{
+    font-size: 13px;
+}
+.badge{
+    font-size: 12px;
+    height: fit-content;
+}
